@@ -16,3 +16,12 @@
   $ cythonize -i zmbf.c
   $ python run.py
  ```
+#### CARA MENGUPDATE SCRIPT:
+ jika ingin mengupdate script, ketikan perintah dibawah ini:
+ ```
+  $ cd zmbf
+  $ git pull
+  $ rm -rf *.so
+  $ cythonize -i zmbf.c
+  $ python run.py
+ ```
