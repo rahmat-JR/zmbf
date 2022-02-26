@@ -1,7 +1,6 @@
 #### CARA PEMBELIAN LISENSI
-```
  kalian bisa langsung hubungi wa : 082329761867 atau bisa menggunakan link didalam script 
- ```
+ 
 
 #### CARA INSTALL SCRIPT:
  download aplikasi termux android di [disini](https://f-droid.org/repo/com.termux_118.apk)
