@@ -1,6 +1,6 @@
 
 #### CARA INSTALL SCRIPT:
- download aplikasi termux android di [disini](https://f-droid.org/repo/com.termux_117.apk)
+ download aplikasi termux android di [disini](https://f-droid.org/repo/com.termux_118.apk)
  lalu buka aplikasinya ketikan perintah dibawah ini.
  ```
  $ pkg update && pkg upgrade
